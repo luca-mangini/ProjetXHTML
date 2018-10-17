@@ -1,4 +1,6 @@
 div#menu
 {
     color:blue;
+    background-color:grey;
+    widht:100px;
 }
